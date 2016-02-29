@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./pliniisecundiqu03plingoog_0008.png"; bbox 0 0 2636 3874; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 108 1367 1255 1712">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 108 1367 1255 1712">
+     <span class='ocr_line' id='line_1_1' title="bbox 108 1367 1255 1516; baseline 0 -48"><span class='ocrx_word' id='word_1_1' title='bbox 108 1370 355 1468; x_wconf 86' lang='lat' dir='ltr'>PLINII</span> <span class='ocrx_word' id='word_1_2' title='bbox 405 1367 727 1468; x_wconf 82' lang='lat' dir='ltr'>SECUNDI</span> <span class='ocrx_word' id='word_1_3' title='bbox 778 1369 1124 1468; x_wconf 84' lang='lat' dir='ltr'>IUNIORIS</span> <span class='ocrx_word' id='word_1_4' title='bbox 1179 1512 1180 1516; x_wconf 4' lang='grc' dir='ltr'><strong><em>Ν</em></strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1252 1374 1255 1380; x_wconf 85' lang='grc'><strong>’</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 202 1613 838 1712; baseline 0.008 -4"><span class='ocrx_word' id='word_1_6' title='bbox 202 1613 205 1618; x_wconf 55' lang='grc'><strong>’</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 397 1629 478 1710; x_wconf 83' lang='lat' dir='ltr'>DE</span> <span class='ocrx_word' id='word_1_8' title='bbox 520 1629 838 1712; x_wconf 68' lang='lat' dir='ltr'>MEDICINA</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 506 1923 731 1980">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 506 1923 731 1980">
+     <span class='ocr_line' id='line_1_3' title="bbox 506 1923 731 1980; baseline 0.009 -3"><span class='ocrx_word' id='word_1_9' title='bbox 506 1923 603 1980; x_wconf 88' lang='lat' dir='ltr'><strong>LIBRI</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 630 1924 731 1979; x_wconf 79' lang='lat' dir='ltr'><strong>TRES.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1322 3874">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1322 3874">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1322 3874; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1322 3874; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
